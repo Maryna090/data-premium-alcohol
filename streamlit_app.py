@@ -1,3 +1,6 @@
 import streamlit as st
-st.title ("Вплив економічних факторів на продажі преміум-сегменту в алкогольній індустрії")
-st.write ("Демонстрація в Streamlit.")
+
+st.title("🎈 Data-premium-alcohol")
+st.write(
+    "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
+)
