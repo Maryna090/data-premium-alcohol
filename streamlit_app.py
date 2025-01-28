@@ -1,3 +1,3 @@
 import streamlit as st
-st.title ("Мій перший Streamlit-додаток")
-st.write ("Демонстрація базової роботи в Streamlit.")
+st.title ("Вплив економічних факторів на продажі преміум-сегменту в алкогольній індустрії")
+st.write ("Демонстрація в Streamlit.")
